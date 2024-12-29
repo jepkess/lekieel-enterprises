@@ -35,7 +35,7 @@ $(document).ready(function(){
 
     // typing text animation script
     var typed = new Typed(".typing", {
-        strings: ["Lab technician",  "lab Designer", "lab Consultance", "lab Instructor" , ],
+        strings: ["Lab Equipments",  "lab chemicals", "lab Consultance", "lab Instructor" , ],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
